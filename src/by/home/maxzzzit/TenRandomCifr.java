@@ -1,4 +1,4 @@
-﻿package by.home.maxzzzit;
+package by.home.maxzzzit;
 
 public class TenRandomCifr {
 	public static void main(String[] args) {
