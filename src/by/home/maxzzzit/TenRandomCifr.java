@@ -3,7 +3,7 @@ package by.home.maxzzzit;
 public class TenRandomCifr {
 	public static void main(String[] args) {
 		int x;
-		System.out.print("Десять случайных двухзначных чисел: ");
+		System.out.print("Р”РµСЃСЏС‚СЊ СЃР»СѓС‡Р°Р№РЅС‹С… РґРІСѓС…Р·РЅР°С‡РЅС‹С… С‡РёСЃРµР»: ");
 		for (int i=0; i<10; i++) {
 			x = 10 + (int) (Math.random() * 90);
 			System.out.print(x+", ");
